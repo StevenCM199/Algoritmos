@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Algoritmos</string>
+    <string name="num1">1</string>
+    <string name="num2">1</string>
+    <string name="num3">1</string>
+    <string name="num4">1</string>
+    <string name="num5">1</string>
+    <string name="bubble_sort">Realizar</string>
+    <string name="bblsort">BubbleSort</string>
+    <string name="insSort">Insertion Sort</string>
+    <string name="grafica">Button</string>
+</resources>
