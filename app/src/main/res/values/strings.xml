@@ -9,4 +9,17 @@
     <string name="bblsort">BubbleSort</string>
     <string name="insSort">Insertion Sort</string>
     <string name="grafica">Button</string>
+    <string name="grafica2">Button</string>
+    <string name= "gr_fica">Button</string>
+    <string name="gr_ficos_de_algoritmos_de_ordenamiento">graficos de algoritmos de ordenamiento</string>
+    <string name="texto1">texto1</string>
+    <string name="text">text</string>
+    <string name="selection_sort">insertion sort</string>
+    <string name="todo">TODO</string>
+    <string name="txt">Esta aplicación demuestra la comparación de la cantidad de elementos por la cantidad de operaciones. Se analizará el Insertion Sort y el Bubble Sort</string>
+    <string name="BubbleSort">bubble sort</string>
+    <string name="ver">Ver</string>
+    <string name="Graficas">Gráficas</string>
+    <string name="este_aplicaci_n_demuestra_la_comparaci_n_de_la_cantidad_de_elementos_por_la_cantidad_de_operaciones_se_analizar_el_selection_sort_y_el_bubble_sort">Este aplicación demuestra la comparación de la cantidad de elementos por la cantidad de operaciones. Se analizará el Selection Sort y el Bubble Sort</string>
+    <string name="bublsort">Bubble Sort</string>
 </resources>

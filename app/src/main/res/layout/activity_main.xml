@@ -239,7 +239,7 @@
         android:layout_marginEnd="114dp"
         android:layout_marginRight="114dp"
         android:layout_marginBottom="36dp"
-        android:text="@string/grafica"
+        android:text="@string/Graficas"
         tools:text="Ir a la gráfica" />
 
 </RelativeLayout>
